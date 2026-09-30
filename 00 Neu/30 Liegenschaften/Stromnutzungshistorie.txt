@@ -1,0 +1,14 @@
+Stromverbrauch
+
+Mittwoch, 31. Dezember 2025
+12:23
+
+Grosimöbel (2 Lampen, Uhr, Klima, Feuchter) sind 27Wh
+Heizkuscheldecke + Sleevewärmer sind 185 Wh
+Laptop und Therapielampe sind ~50 Wh
+Klimagerät sind ~400 Wh
+PC + Monitor sind ~80 Wh oder 200 Wh beim gamen
+Ebike ist 180 Wh, Scooter ist 120 Wh und Roller ist 700 Wh
+
+AI benötigt ~600 Wh im Chatmodus und 3x so viel im Sprachmodus.
+Oder falls Bilder generiert werden in etwa für 5 qualitativ tolle Bilder.

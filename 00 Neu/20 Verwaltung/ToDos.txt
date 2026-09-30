@@ -1,0 +1,35 @@
+## ToDo
+
+#### Digital
+
+* Smart-Home-Routinen erneuern und Batterien der Fernsteuerungen ersetzen.
+* Therapie (Big Five) – Endfassung für GameLife strukturiert schreiben, max. 4 Seiten.
+* Anmeldung für A1-Prüfung via Verkehrsamt online durchführen; Ausweis erforderlich.
+* Pensionskasse vom ehemaligen Arbeitgeber auf den neuen übertragen.
+
+#### Körperlich
+
+* Beim neuesten E-Scooter die Ständerfixierung reparieren.
+* Hygienereinigung von Bad und Küche ausführen.
+* Wohnung staubsaugen und Oberflächen reinigen.
+* Bett- und Kuschelwäsche reinigen und austauschen.
+* Spiegel beim Roller selbst reparieren; Material aus Jumbo.
+* Zalando-Lieferung bei der Post abgeben.
+* Kartonsammlung mit dem Fahrrad erledigen; samstags bis 12:30 Uhr offen.
+* Bratpfanne intensiv reinigen; Hitzewellen und Kälteschock nutzen.
+* IT-Geräte hygienisch reinigen: PC, Laptop, Handy und Tablets.
+
+## Ideen
+
+#### Digital
+
+* Journal „KW Einträge“ als Pilot direkt an AI-Chat „Inhalt verdichten + Makro“ übergeben.
+* Therapie (Big Five) als Pilot direkt an AI-Chat „Inhalt zu Makro“ maximal verdichtet übergeben.
+
+#### Körperlich
+
+* Flex-Kühlpads im Gästezimmer auf der Matratze zum Kühlen austesten.
+
+#### Digital & Körperlich
+
+* Fernsteuerung inklusive Sensorik für die Terrassenstoren bauen.
